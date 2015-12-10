@@ -3,6 +3,7 @@
 write=nobody
 execute=authenticated 
   **/ 
+  //4th file committed with tag
  var time = new Date();
 var mailBody = "Hello,<br>An intrusion was detected at " + time + "<br>";
 mailBody += "<a href='https://api.scriptr.io/discard?id=" + request.id + "'>Click here to discard the alert</a>";
