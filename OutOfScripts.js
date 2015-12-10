@@ -1,1 +1,1 @@
-return "Hey.This script is out of scripts folder in GitHub"
+return "Hey.This script is out of scripts folder in GitHub";
