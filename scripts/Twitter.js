@@ -3,7 +3,6 @@
 write=nobody
 execute=authenticated 
   **/ 
-  //Without AutoDeploy
  // Require the twitter module in order to be able to call the APIs
 var tw = require("twitter");
 
