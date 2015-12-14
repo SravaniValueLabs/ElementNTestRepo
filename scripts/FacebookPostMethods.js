@@ -17,3 +17,4 @@ var credentials = {
    "accessToken": "CAAJ3XEsYhckBAEcPBZAefWJcwNlrmg4qK0HwLZBcCoKjGkB8fKf5sEfIOOEG1dlNgG7ZBiupR93uIP400jCSVFf55X2Je8ZBnCOZB1GTAC6zPBMDOiOAgaq88nUudehRCtwIEh3Idl5xT7018DCoUSlZCjlnZBBIxvIEzHXILBXZBZB6xGt411Nmq"
 };
 return fb.post("Using matrix configuration to verify post", credentials);		
+//Edit1 purge off
