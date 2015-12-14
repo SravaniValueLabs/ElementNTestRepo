@@ -17,4 +17,4 @@ var credentials= {
    "accessToken": "3877486769-qfutWNIAF9WayYpdQq6DCs5Lish9WYEW7OYWFhM",
    "accessTokenSecret": "dQ1AE7Zi1P0mNQFd9t61gEPfD8YszwYcWNVJXDWH9syhS"
  };
-return tw.tweet("Using matrix configuration to verify tweet", credentials);		//Edited
+return tw.tweet("Using matrix configuration to verify tweet", credentials);		//Edited //Edited2
